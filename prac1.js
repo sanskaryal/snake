@@ -1,3 +1,4 @@
+//initialize stuffs
 const box = 20;
 var c = document.getElementById("canvas");
 var ctx = c.getContext("2d");
